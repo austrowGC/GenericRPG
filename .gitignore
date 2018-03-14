@@ -25,4 +25,8 @@ Thumbs.db
 bin/
 obj/
 packages/
+<<<<<<< Updated upstream
 .vs/
+=======
+.vs/
+>>>>>>> Stashed changes
